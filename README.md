@@ -1,4 +1,4 @@
-# CSC148-A1
+# CSC148-A2
 My submission to the second assignment for CSC148: Introduction to Computer Science
 
 ## Overview
